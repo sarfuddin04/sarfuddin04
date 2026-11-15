@@ -31,7 +31,7 @@ I enjoy working with **Python, Java, AI/ML, Web Development, and Data Structures
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://sarfuddin-portfolio-cyhh.vercel.app/" target="_blank">
+<a href="https://sarfuddin-portfolio-ms.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
@@ -119,7 +119,7 @@ My personal developer portfolio showcasing my skills, projects, education and de
 
 **Tech Stack:** HTML · CSS · JavaScript
 
-<a href="https://sarfuddin-portfolio-cyhh.vercel.app/" target="_blank">
+<a href="https://sarfuddin-portfolio-ms.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/Live%20Portfolio-Visit%20Website-blue?style=for-the-badge" />
 </a>
 
@@ -157,7 +157,7 @@ My personal developer portfolio showcasing my skills, projects, education and de
 | Platform     | Link                                                                 |
 | ------------ | -------------------------------------------------------------------- |
 | 💻 GitHub    | [@sarfuddin04](https://github.com/sarfuddin04)                       |
-| 🌐 Portfolio | [Visit Portfolio](https://sarfuddin-portfolio-cyhh.vercel.app/) |
+| 🌐 Portfolio | [Visit Portfolio](https://sarfuddin-portfolio-ms.vercel.app/) |
 | 📸 Instagram | [@sarfuddin__04](https://www.instagram.com/sarfuddin__04)            |
 | 💼 LinkedIn  | [LinkedIn Profile](https://www.linkedin.com/in/mohammad-sarfuddin-4360bb357/) |
 | 📧 Email     | [Contact Me](mailto:sarfuddin9336@gmail.com)                   |
